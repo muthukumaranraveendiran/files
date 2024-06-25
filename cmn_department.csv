@@ -1,0 +1,8 @@
+id,name,id,company,dept_head,primary_contact,description,parent,cost_center,head_count,sys_id,sys_updated_by,sys_updated_on,sys_created_by,sys_created_on,sys_mod_count,business_unit
+1,Sales,0054,NULL,06826bf03710200044e0bfc8bcbe5d6f,NULL,Sales and Marketing,NULL,NULL,NULL,221db0edc611228401760aec06c9d929,admin,18/02/12 7:01,glide.maint,31/01/06 20:18,6,NULL
+2,Development,0024,NULL,5137153cc611227c000bbd1bd8cd2005,NULL,Software Research and Development,NULL,NULL,NULL,221f3db5c6112284009f4becd3039cc9,admin,18/02/12 7:01,glide.maint,20/03/08 20:20,5,NULL
+3,IT,0076,NULL,5137153cc611227c000bbd1bd8cd2007,NULL,Information Technology,NULL,NULL,NULL,221f79b7c6112284005d646b76ab978c,admin,18/02/12 7:01,glide.maint,31/01/06 20:20,5,NULL
+4,Customer Support,0023,NULL,8d5938070a0a0a6b00f8a5e8d3375606,NULL,Customer Support,NULL,NULL,NULL,5d7f17f03710200044e0bfc8bcbe5d43,admin,18/02/12 2:50,admin,18/02/12 2:50,1,NULL
+5,HR,0009,NULL,f6826bf03710200044e0bfc8bcbe5df4,NULL,Human Resources,NULL,NULL,NULL,93b25282c0a8000b0b55c8ab34e2f1e6,admin,18/02/12 6:55,dariusz.szybowski,17/01/11 11:18,3,NULL
+6,Product Management,0087,NULL,0d5b61dfc0a8026601c8e80d8bb57f6e,NULL,Product Marketing,NULL,NULL,NULL,9a7ed3f03710200044e0bfc8bcbe5db7,admin,18/02/12 2:50,admin,18/02/12 2:49,2,NULL
+7,Finance,0010,NULL,46c5bf6ca9fe1981010713e3ac7d3384,NULL,Finance,NULL,NULL,NULL,a581ab703710200044e0bfc8bcbe5de8,admin,18/02/12 3:01,admin,18/02/12 3:01,1,NULL
